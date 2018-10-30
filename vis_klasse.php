@@ -3,7 +3,7 @@
 <html lang="no">
 <meta charset="utf-8">
 <head>
-    <title>Obligatorisk oppgave 1</title>
+    <title>Obligatorisk oppgave 1 :D</title>
     
     <style>
 
